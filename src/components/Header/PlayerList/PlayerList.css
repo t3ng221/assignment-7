@@ -1,0 +1,10 @@
+.player-list{
+    display: flex;
+}
+.player-details{
+    width: 75%;
+    border-right: 2px solid goldenrod;
+}
+.player-cart{
+    width: 25%;
+}
